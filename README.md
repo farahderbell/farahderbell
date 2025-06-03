@@ -39,11 +39,6 @@
 
 ----->
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farah-derbel&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 ---
 
