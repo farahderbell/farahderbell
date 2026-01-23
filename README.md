@@ -6,10 +6,10 @@
 ---
 
 ## 🛠️ Skills & Technologies
-- **Languages:** Python, PHP, Java, C++, C
-- **Frameworks:** Symfony, JavaFX
-- **Tools & OS:** Git, Linux (basics), Arduino, VS Code, SDL2
-- **Interests:** Data Science, Machine Learning, Web & Desktop Development
+- **Languages:** Python, PHP, Java, C++, C  
+- **Frameworks & Libraries:** Symfony, JavaFX, Flask, Pandas, NumPy, scikit-learn, Matplotlib  
+- **Tools & OS:** Git, Linux (basics), Arduino, VS Code, SDL2, Docker, Jupyter Notebook  
+- **Interests:** Data Science, Machine Learning, MLOps, Web & Desktop Development, Simulation Models
 
 ---
 
@@ -33,19 +33,17 @@
 ---
 
 ## 🌟 Other Projects
-<!-- Update with real repo links 
-- 📊 **[Mini ML Models](#)** — Small-scale machine learning models trained on public datasets.
+<!-- Update with real repo links -->
+- 📊 **[Mini ML Models](#)** — Small-scale machine learning models trained on public datasets.  
+- 💻 **[NashShield Simulation](#)** — Web-based platform combining stochastic simulations & game theory (Python + Flask + JS).  
 - 💼 **[Portfolio Website](#)** — My personal website built to showcase my work and resume.
-
------>
-
 
 ---
 
 ## 💬 Let’s Connect
 
-- 📧 Email: [farah.derbel2016@gmail.com](mailto:farah.derbel2016@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/farah-derbel-933414268/)
+- 📧 Email: [farah.derbel2016@gmail.com](mailto:farah.derbel2016@gmail.com)  
+- 💼 [LinkedIn: Farah Derbel](https://www.linkedin.com/in/farah-derbel-933414268/)
 
 ---
 
