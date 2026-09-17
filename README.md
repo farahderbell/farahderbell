@@ -101,24 +101,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=farahderbell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farahderbell&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=farahderbell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Farah's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farahderbell&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=farahderbell&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=farahderbell&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farahderbell&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=farahderbell&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies"/>
 </p>
 
 <!-- ===== CONTRIBUTION GRAPH ANIMÉ ===== -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farahderbell&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farahderbell&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph"/>
 </p>
-
-
 
 ---
 
