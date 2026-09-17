@@ -5,7 +5,7 @@
 
 
 
-🎓 Engineering student in **Data Science at ESPRIT**, in a double-degree program with the **Institut du Risque et de l'Assurance (IRA)**, Université du Mans — **M2 Actuariat**.
+🎓 Engineering student in **Data Science at ESPRIT**, in a double-degree program with the **Institut du Risque et de l'Assurance (IRA)**, Université du Mans  **M2 Actuariat**.
 📊 I work at the intersection of **machine learning** and **actuarial science**: scoring, risk prediction, stochastic simulation and Solvency II.
 
 <br clear="right"/>
