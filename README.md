@@ -1,23 +1,3 @@
-<!-- ===== HEADER ANIMÉ ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=200&section=header&text=Farah%20Derbel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%26%20Actuarial%20Engineering%20Student&descAlignY=55&descSize=18" width="100%"/>
-</p>
-
-<!-- ===== TYPING ANIMATION ===== -->
-<p align="center">
-  <a href="https://github.com/farahderbell">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Data+Science+Engineering+Student+%40+ESPRIT;M2+Actuariat+%40+Universit%C3%A9+du+Mans+(IRA);Machine+Learning+%7C+Deep+Learning+%7C+Risk+Modeling;Turning+data+into+decisions+%F0%9F%93%8A" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- ===== BADGES ===== -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/farah-derbel-933414268/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:farah.derbel2016@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=farahderbell&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS"/>
-</p>
-
----
 
 ## 🧭 About Me
 
