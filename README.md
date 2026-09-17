@@ -23,22 +23,7 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/gist/Nooshu/f3b98f4c38c2f8dbc6f5a0fbd8c17a72/raw/data-science.gif" alt="data science gif"/>
 
-```python
-class FarahDerbel:
-    def __init__(self):
-        self.education = [
-            "Cycle Ingénieur Informatique — Data Science, ESPRIT (2022 →)",
-            "M2 Actuariat — IRA, Université du Mans (2025 →) · Double diplôme"
-        ]
-        self.focus      = ["Machine Learning", "Deep Learning",
-                           "Inferential Statistics", "Solvency & Risk Modeling"]
-        self.currently  = "Building intelligent scoring & insurance risk systems"
-        self.languages  = {"Arabic": "Native", "French": "Advanced",
-                           "English": "Advanced"}
 
-    def say_hi(self):
-        print("Thanks for dropping by — let's build something with data!")
-```
 
 🎓 Engineering student in **Data Science at ESPRIT**, in a double-degree program with the **Institut du Risque et de l'Assurance (IRA)**, Université du Mans — **M2 Actuariat**.
 📊 I work at the intersection of **machine learning** and **actuarial science**: scoring, risk prediction, stochastic simulation and Solvency II.
