@@ -118,10 +118,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=farahderbell&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
 </p>
 
-<!-- ===== SNAKE ANIMATION ===== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
+
 
 ---
 
